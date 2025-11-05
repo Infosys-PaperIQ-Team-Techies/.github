@@ -9,7 +9,7 @@ PaperIQ is an AI powered tool that analyzes research papers and gives clean, fas
 
 ## What this project does
 
-* Takes research paper PDFs / URLs
+* Takes research paper from .pdf, .docx and and .txt files
 * Extracts key points, keywords and context
 * Generates short & accurate summaries
 * Helps in fast literature review
@@ -20,13 +20,15 @@ PaperIQ is an AI powered tool that analyzes research papers and gives clean, fas
 
 * AI / ML
 * NLP / LLM based text processing
-* Research Paper APIs (ex: Semantic Scholar)
-* Frontend + Backend (Tech stack may expand)
+* Research Paper APIs
+* Frontend + Backend
 
 
 ## Features (Core)
 
 * Upload / Fetch Research Paper
+* Search Research Papers
+* Short Description Of The Topic
 * Auto Summary
 * Extract Authors, Citations, Topics
 * Generate Key Insights
@@ -34,7 +36,7 @@ PaperIQ is an AI powered tool that analyzes research papers and gives clean, fas
 
 ## Vision
 
-Make research papers extremely fast to understand.
+Make research papers extremely fast to get and understand.
 
 
 ## Status
