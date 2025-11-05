@@ -44,11 +44,11 @@ Current stage: Active Development
 
 ## Contributors
 
-* Edwin George Shaji [Karthik Raj](https://github.com/karthikrajj)
-* Naveen jayaraj [Karthik Raj](https://github.com/karthikrajj)
-* Chetana Sri Motamarri [Karthik Raj](https://github.com/karthikrajj)
-* Deepika Bunga [Karthik Raj](https://github.com/karthikrajj)
-* Boomika [Karthik Raj](https://github.com/karthikrajj)
-* Akshayalakshmi [Karthik Raj](https://github.com/karthikrajj)
+* [Edwin George Shaji](https://github.com/edwingeorgeshaji)
+* [Naveen jayaraj](https://github.com/Naveen-Jayaraj)
+* [Chetana Sri Motamarri](https://github.com/chetanasrichandana)
+* [Deepika Bunga](https://github.com/Deepika-Bunga)
+* [Boomika](https://github.com/boomika107)
+* [Akshayalakshmi](https://github.com/Akshayasiva46)
 
 ---
