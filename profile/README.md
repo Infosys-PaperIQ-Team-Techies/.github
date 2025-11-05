@@ -1,8 +1,11 @@
+
+---
+
+
 # PaperIQ – AI Powered Research Insight Analyzer
 
 PaperIQ is an AI powered tool that analyzes research papers and gives clean, fast and high‑value insights.
 
----
 
 ## What this project does
 
@@ -12,7 +15,6 @@ PaperIQ is an AI powered tool that analyzes research papers and gives clean, fas
 * Helps in fast literature review
 * Makes research paper understanding easier
 
----
 
 ## Tech Stack
 
@@ -21,7 +23,6 @@ PaperIQ is an AI powered tool that analyzes research papers and gives clean, fas
 * Research Paper APIs (ex: Semantic Scholar)
 * Frontend + Backend (Tech stack may expand)
 
----
 
 ## Features (Core)
 
@@ -30,22 +31,24 @@ PaperIQ is an AI powered tool that analyzes research papers and gives clean, fas
 * Extract Authors, Citations, Topics
 * Generate Key Insights
 
----
 
 ## Vision
 
 Make research papers extremely fast to understand.
 
----
 
 ## Status
 
 Current stage: Active Development
 
----
 
 ## Contributors
 
-* Edwin George Shaji (Owner)
+* Edwin George Shaji
+* Naveen jayaraj
+* Chetana Sri Motamarri
+* Deepika Bunga
+* Boomika
+* Akshayalakshmi
 
 ---
